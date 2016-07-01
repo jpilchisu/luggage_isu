@@ -6,6 +6,39 @@ The Luggage_ISU version number shows the upstream Luggage version it is based on
 as well as the Luggage_ISU version. For example, Luggage_ISU 3.1.0-3.1 is based
 on the upstream Luggage release 3.1.0.
 
+Luggage_ISU 3.4.0-4.5, 2016-06-22
+Drupal 7.44, 2016-06-15
+-------------------------
+Merged with upstream Luggage 3.4.0
+- LUGG-509 - Styling added to <figure> and <figcaption>
+- LUGG-519 - Images in content resize for mobile content
+- LUGG-525 - Moved suitcase styling from luggage_people to suitcase
+- LUGG-609 - Styling added to new comment marker
+- LUGG-631 - Opening a link in a new tab with iOS now works
+- LUGG-722 - isushib no longer caches failed log in attempts
+
+Luggage_ISU 3.3.2-4.4, 2016-06-15
+Drupal 7.44, 2016-06-15
+-------------------------
+- LUGG-731 - Drupal 7.44 SA-CORE-2016-002
+
+Luggage_ISU 3.3.1-4.3, 2016-02-24
+Drupal 7.43, 2016-02-24
+-------------------------
+- LUGG-642 - Drupal 7.43 SA-CORE-2016-001
+
+Luggage_ISU 3.3.0-4.2, 2016-01-15
+Drupal 7.41, 2015-10-21
+-------------------------
+- LUGG-555 - Fixed numbered bulleted list only showing 1 digit
+- LUGG-613 - Update references of ISUITC to ISUBIT
+- LUGG-625/isushib #5 - Updated shibboleth documentation URL
+
+Luggage_ISU 3.2.5-4.1, 2015-10-21
+Drupal 7.41, 2015-10-21
+-------------------------
+- LUGG-604 - Drupal 7.41 SA-CORE-2015-004
+
 Luggage_ISU 3.2.4-4.0, 2015-10-08
 Drupal 7.39, 2015-08-19
 -------------------------

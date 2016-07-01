@@ -2,6 +2,56 @@ How to read this changelog:
 
 The LUGG- prefix refers to JIRA issue numbers; the # prefix refers to Github issue numbers.
 
+Luggage 3.4.0, 2016-06-10
+Drupal 7.44, 2016-06-15
+-------------------------
+- LUGG-114 - People names now use HTML entities instead of displaying them
+- LUGG-227 - Anonymous users no longer get prompted to add a new resource
+- LUGG-384 - Updated README.md
+- LUGG-457 - Disabled comments on all content types by default
+- LUGG-525 - Moved suitcase styling from luggage_people to suitcase
+- LUGG-546 - Adding location field to events
+- LUGG-635 - Updated CKEditor library to 4.5.8
+- LUGG-636 - Commas separate areas of expertise in teaser and search results for people
+- LUGG-654 - Read More configuration updated based on new release of read_more module
+- LUGG-660 - Removed redundant views display on luggage_news
+- LUGG-680 - Build script supports drush 8
+- LUGG-713 - Update permission settings based on new release of scheduler module
+- LUGG-714 - Site index now requires view content permission
+- LUGG-720 - Removed unused CSS file from luggage_roles
+- LUGG-724 - Support for Tugboat.qa
+- LUGG-725 - Build script uses bash instead of sh
+- LUGG-726 - Build script supports defining $DBHOST for MySQL hostname
+- LUGG-729 - Disable comments on page and people content types
+
+Luggage 3.3.2, 2016-06-15
+Drupal 7.44, 2016-06-15
+-------------------------
+- LUGG-731 - Drupal 7.44 SA-CORE-2016-002
+
+Luggage 3.3.1, 2016-02-24
+Drupal 7.43, 2016-02-24
+-------------------------
+- LUGG-642 - Drupal 7.43 SA-CORE-2016-001
+
+Luggage 3.3.0, 2016-01-15
+Drupal 7.41, 2015-10-21
+-------------------------
+- LUGG-175 - Added default 404 page to show menus
+- LUGG-335 - Updated calendar module to 7.x-3.5
+- LUGG-336 - Fixed 'Notice: Undefined index: groupby_times' with patch to calendar module
+- LUGG-572 - Added alpha and beta symbols to the CKEditor special character selection
+- LUGG-589 - Update references of ISUITC to ISUBIT
+- LUGG-592 - Adding luggage_video feature
+- LUGG-593 - Updated CKEditor library and module
+- LUGG-603 - Fixed authenticated user unable to create any published content
+- LUGG-607 - Video field in events with luggage_events_video
+
+Luggage 3.2.5, 2015-10-21
+Drupal 7.41, 2015-10-21
+-------------------------
+- LUGG-604 - Drupal 7.41 SA-CORE-2015-004
+
 Luggage 3.2.4, 2015-09-22
 Drupal 7.39, 2015-08-19
 -------------------------
